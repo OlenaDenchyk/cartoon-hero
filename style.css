@@ -1,0 +1,24 @@
+span {
+  color:green;
+  font-size: 50px;
+}
+
+body {
+	text-align: center;
+}
+
+h1 {
+    background-color: green;
+}
+
+h1:hover {
+    background-color: blue;
+}
+
+h1.intro {
+    color: blue;
+}
+
+a:hover {
+	color: red;
+}
