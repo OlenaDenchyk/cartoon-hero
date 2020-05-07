@@ -22,3 +22,7 @@ h1.intro {
 a:hover {
 	color: red;
 }
+
+p {
+	text-decoration: underline;
+}
