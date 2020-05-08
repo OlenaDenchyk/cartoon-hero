@@ -1,0 +1,42 @@
+body {
+	background-color: lightgreen;
+}
+h1{
+			color: orange;
+			font-size: 70px;
+			text-decoration-line: underline;
+		}
+
+		h2{
+			color: purple;
+			font-size: 40px;
+			font-style: italic;
+		}
+		#first{
+			font-size: 80px;
+			color: violet;
+		}
+
+		.small{
+			font-size: 30px;
+			color: olive;
+			font-style: italic;
+		}
+
+		h1 span{
+			color: black;
+			font-style: normal;
+
+		}
+
+		a:link {
+			color: black;
+			font-family: Broadway;
+		}
+		a:active{
+			color: pink;
+		}
+		a:visited{
+			/*color: black;*/
+			text-decoration-line: line-through;
+		}
